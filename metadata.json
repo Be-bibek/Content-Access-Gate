@@ -1,0 +1,6 @@
+{
+  "name": "Content Access Gate",
+  "description": "A premium Web3-enabled Content Access Gate utilizing the Stellar network to unlock locked, premium articles and video content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
