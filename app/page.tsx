@@ -398,7 +398,7 @@ export default function Home() {
                 </div>
 
                 {/* 2. Content Preview Block (Blurred out) */}
-                <div className="relative border border-border/80 rounded-2xl bg-card overflow-hidden shadow-sm">
+                <div className="relative border border-zinc-800/50 rounded-[32px] bg-[#0c0c0e]/30 overflow-hidden shadow-2xl min-h-[750px] flex flex-col justify-center">
                   
                   {/* Real article text representation, but blurred starting from second paragraph */}
                   <div className="p-6 md:p-10 select-none pointer-events-none opacity-45 dark:opacity-25 filter blur-sm flex flex-col gap-6">
